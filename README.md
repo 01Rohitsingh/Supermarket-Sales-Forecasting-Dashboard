@@ -7,8 +7,10 @@ It enables business stakeholders to track KPIs, assess sales trends, and make da
 ## 🎥 Demo Video
 https://drive.google.com/file/d/1Fz7AHQhlhakBoCbcNN2oIMHk7rZZwy2U/view
 
+
 ## 🖼️ Image
 <img width="1277" height="714" alt="Image" src="https://github.com/user-attachments/assets/c0995a8f-e73e-47d0-9de3-ed9cdb13cb5f" />
+<img width="1318" height="737" alt="Image" src="https://github.com/user-attachments/assets/1c138af5-3d1a-4d59-8665-7e7745102bfa" />
 ## 🎯 Objectives
 - To contribute to strategic business decisions through accurate sales forecasting.
 - To visualize key performance indicators (KPIs) with an intuitive and interactive dashboard.
