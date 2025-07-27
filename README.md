@@ -5,9 +5,10 @@ This project involves building a dynamic, web-based dashboard that provides mean
 It enables business stakeholders to track KPIs, assess sales trends, and make data-driven decisions for improved efficiency and growth.
 
 ## 🎥 Demo Video
+https://drive.google.com/file/d/1Fz7AHQhlhakBoCbcNN2oIMHk7rZZwy2U/view
 
-
-
+## 🖼️ Image
+<img width="1277" height="714" alt="Image" src="https://github.com/user-attachments/assets/c0995a8f-e73e-47d0-9de3-ed9cdb13cb5f" />
 ## 🎯 Objectives
 - To contribute to strategic business decisions through accurate sales forecasting.
 - To visualize key performance indicators (KPIs) with an intuitive and interactive dashboard.
