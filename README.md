@@ -1,10 +1,11 @@
-# 📊 Supermarket Sales Forecasting Dashboard
+ 📊 Supermarket Sales Forecasting Dashboard
 
 ## 📝 Project Overview
 This project involves building a dynamic, web-based dashboard that provides meaningful insights into supermarket sales performance and forecasts future sales using time series analysis.
 It enables business stakeholders to track KPIs, assess sales trends, and make data-driven decisions for improved efficiency and growth.
 
 ## 🎥 Demo Video
+
 
 
 ## 🎯 Objectives
